@@ -5,7 +5,7 @@
 - 👀 I’m interested in ... right now ? ... getting some sleep 😂
 - 🌱 I’m currently learning ... that's true. Each day and every day ☀️
 - 💞️ I’m looking to collaborate on ... something meaningful ✨
-- 📫 How to reach me: <a href="[https://www.linkedin.com/in/kritika-p-296739155/](https://www.linkedin.com/in/aurelie-cuignet/)">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/aurelie-cuignet/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AurelieCuignet&layout=compact&show_icons=true&theme=gotham)
  <img src="https://github-readme-stats.vercel.app/api?username=AurelieCuignet&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
