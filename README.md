@@ -10,6 +10,8 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AurelieCuignet&layout=compact&show_icons=true&theme=gotham)
  <img src="https://github-readme-stats.vercel.app/api?username=AurelieCuignet&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AurelieCuignet.AurelieCuignet)
+
 
 <!---
 AurelieCuignet/AurelieCuignet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
